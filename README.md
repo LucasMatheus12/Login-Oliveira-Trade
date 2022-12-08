@@ -33,16 +33,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git
 
 
-## 💻 Projeto
-
-O Saint-Farma é um sistema de farmácia para controle de estoque,cadastro de clientes,vendas de medicamentos á vista e parcelado, além de controle de funcionários e geração de relatórios. 
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/5EZbY7mEqbwFWu87kOqxwj/ProjetoFarm%C3%A1cia?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
