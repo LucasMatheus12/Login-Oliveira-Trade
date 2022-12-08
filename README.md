@@ -21,14 +21,17 @@ Sistema para cadastramento de conta de usuário, o sistema vai permitir que voc�
   <img alt="SaintFarm" src="" width="100%">
 </p> -->
 
-## 🚀 Tecnologias
+## :wrench: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
-- LocalStorage e Bootstrap
-- SmtpJS 
+- JavaScript
+- React JS, Hooks, Styled Components
+- LocalStorage 
+- Npm
+- Git
+
 
 ## 💻 Projeto
 
