@@ -1,7 +1,7 @@
 <h1 align="center"> Oliveira Trade </h1>
 
 <p align="center">
-Projeto Oliveira Trade, sistema feito para o cadastramento de uma conta, para poder entrar ná pagina Oliveira Trade. 
+Sistema para cadastramento de conta de usuário, o sistema vai permitir que você realize o cadastro de uma conta e em seguida vai permitir que você entra na página com a conta cadastrada, caso tente fazer outro cadastro, o sistema só permitir se o usuário tentar com outro email. O sistema contém algumas validações, onde vai aparecer as mensagens de avisos para o usuário. 
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@ Projeto Oliveira Trade, sistema feito para o cadastramento de uma conta, para po
 
 <br>
 
-<p align="center">
-  <img alt="SaintFarm" src=".github/image-SaintFarma.jpeg" width="100%">
-</p>
+<!-- <p align="center">
+  <img alt="SaintFarm" src="" width="100%">
+</p> -->
 
 ## 🚀 Tecnologias
 
